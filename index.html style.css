@@ -1,0 +1,25 @@
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+.header-logo {
+  font-size:100px;
+  float:left;
+  justify-content: center;
+  margin: 0 auto;
+}
+.button {
+  border-radius: 4px;
+  color: #fff;
+  font-size: 30px;
+}
+.button2 {
+  border-radius: 4px;
+  color: #fff;
+  font-size: 30px;
+}
+.button3 {
+  border-radius:4px;
+  color: #fff;
+  font-size: 30pxS;
+}

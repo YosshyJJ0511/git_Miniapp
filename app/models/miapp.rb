@@ -1,0 +1,2 @@
+class Miapp < ApplicationRecord
+end

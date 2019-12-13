@@ -1,0 +1,2 @@
+module MiappHelper
+end

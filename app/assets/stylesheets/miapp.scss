@@ -1,0 +1,65 @@
+header {
+  background-color:#008B8D;
+  height: 60px;
+}
+.header-logo {
+  font-size:40px;
+  float:left;
+  color:#fff;
+  padding:0px 20px;
+}
+.header-list {
+  text-align: right;
+  font-size:20px;
+  padding:15px;
+  margin:40px auto 0;
+  color:#fff;
+}
+.button {
+  border-radius:4px;
+  text-decoration:none;
+  color:#fff;
+  padding:5px;
+}
+.button2 {
+  border-radius:4px;
+  text-decoration:none;
+  color:#fff;
+  padding:5px;
+}
+.button3 {
+  border-radius:4px;
+  text-decoration:none;
+  color:#fff;
+  padding:5px;
+}
+.contents {
+  width: 50%;
+  margin: 50px auto 0;
+}
+.contents textarea [name="text"]{
+  height: 150px;
+}
+
+.contents input[type="submit"] {
+  display: block;
+  width: 200px;
+  margin: 40px auto 0;
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  background-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.grid-6 {
+  text-align: right;
+  font-size:20px;
+  padding:15px;
+  margin:40px auto 0;
+  color:#fff;
+}
+// Place all the styles related to the miapp controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
